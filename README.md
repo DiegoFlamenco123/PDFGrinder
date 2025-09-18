@@ -64,10 +64,10 @@ Aplicación web moderna para **combinar archivos PDF** de manera rápida, intuit
 
 ## 📦 Instalación y Ejecución  
 
-# Instalar dependencias
+### Instalar dependencias
 ```npm install```
 
-# Correr en modo desarrollo
+### Correr en modo desarrollo
 ```npm run dev```
 
 ### 1️⃣ Clonar el repositorio  
