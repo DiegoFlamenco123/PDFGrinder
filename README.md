@@ -51,7 +51,3 @@ Aplicación web moderna para **combinar archivos PDF** de manera rápida, intuit
 ### Correr en modo desarrollo
 ```npm run dev```
 
-### 1️⃣ Clonar el repositorio  
-```bash
-git clone https://github.com/tuusuario/pdf-grinder.git
-cd pdf-grinder
