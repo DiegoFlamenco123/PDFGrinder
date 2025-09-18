@@ -14,28 +14,9 @@ Aplicación web moderna para **combinar archivos PDF** de manera rápida, intuit
 ### Routing y Navegación  
 - **React Router DOM 7.8.1** → Manejo de rutas y navegación entre páginas  
 
-### Estilos y UI  
-- **Tailwind CSS 4.1.11** → Framework de utilidades CSS  
-- **Material-UI (MUI) 7.2.0** → Componentes de interfaz listos para usar  
-- **Material Tailwind 2.1.10** → Integración de Material Design con Tailwind  
-- **Heroicons 2.2.0** → Iconos SVG optimizados  
-- **Emotion** → Librería CSS-in-JS para estilos dinámicos  
-
 ### Funcionalidad de PDF  
 - **PDF.js 5.3.93** → Renderizado de archivos PDF  
 - **React-PDF 10.0.1** → Componentes para mostrar PDFs en React  
-
-### Interactividad y Drag & Drop  
-- **@dnd-kit/core** → Funcionalidad básica de drag & drop  
-- **@dnd-kit/sortable** → Elementos ordenables  
-- **@dnd-kit/utilities** → Utilidades auxiliares  
-
-### HTTP y APIs  
-- **Axios 1.10.0** → Cliente HTTP para peticiones al backend  
-
-### Herramientas de Desarrollo  
-- **ESLint** → Linter para mantener un código limpio  
-- **PostCSS** + **Autoprefixer** → Procesamiento y compatibilidad CSS  
 
 ---
 
