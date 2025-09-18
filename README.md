@@ -63,6 +63,8 @@ Aplicación web moderna para **combinar archivos PDF** de manera rápida, intuit
 ---
 
 ## 📦 Instalación y Ejecución  
+npm install
+npm run dev
 
 ### 1️⃣ Clonar el repositorio  
 ```bash
