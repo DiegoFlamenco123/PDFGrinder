@@ -39,7 +39,7 @@ export default function UploadControls({ onFileChange, onMerge, loading }: Props
         className={`relative px-8 py-3 rounded-xl font-semibold text-white transition-all duration-300 transform hover:scale-105 active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed disabled:transform-none ${
           loading 
             ? 'bg-gradient-to-r from-gray-400 to-gray-500' 
-            : 'bg-gradient-to-r from-[#EF233C] to-[#D90429] shadow-lg hover:shadow-xl'
+            : 'bg-gradient-to-r from-[#3C467B] to-[#3C467B] shadow-lg hover:shadow-xl'
         }`}
       >
         {loading ? (
